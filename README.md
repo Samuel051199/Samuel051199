@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Angular, Wordpress
 - 💞️ I’m looking to collaborate on projects
 
 
