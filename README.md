@@ -12,8 +12,6 @@
 
 https://replit.com/@samuel991
  
-https://www.linkedin.com/in/samuel-negrea-082a8222b/
-
-https://www.instagram.com/itstudent_2022/
+https://www.linkedin.com/in/SamuelNegrea
 
 https://www.ioansamuel.web.app
